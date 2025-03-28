@@ -13,7 +13,7 @@ Readytosky Brushless Motors for F330 F450 F550 S500 S550 X525 DJI < motor
 SFE_BMP180 pressure;
 
 //////////////////////////////////////////
-//      Controlelr                      //
+//      Controller                      //
 int throttlePin = 2;   // Pin for throttle (PWM signal)
 int rollPin = 3;       // Pin for roll (PWM signal)
 int pitchPin = 4;      // Pin for pitch (PWM signal)
